@@ -7,8 +7,3 @@ User should be able to choose his name, change it anytime, and post any text mes
 
 Do not store messages on the server.
 Use web sockets to connect to the server and get and send messages to other users.
-
-When you finish the task, please:
-- send a link to your GitHub repository;
-- send a link to a working chat (is optional);
-- write how much time you spent on the writing of the chat.
